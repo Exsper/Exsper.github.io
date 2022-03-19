@@ -5,3 +5,4 @@
 - [Cost计算器](https://exsper.github.io/costcal/)
 - [文字颜色渐变BBcode](https://exsper.github.io/colorcode/)
 - [快速计算训练（vue练习）](https://exsper.github.io/quick-calculation-practice/)
+- [osu!mania 单图pp计算器](https://exsper.github.io/osumania-ppcal/)
